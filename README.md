@@ -8,7 +8,7 @@ I'm a mobile developer from Indonesia 🇮🇩
 - Some of UI / UX Principle
 - Problem Solver
 - Shortcut Finder
-- Investing in Stock and Crypto
+- Investing in Stock
 - Teaching
 - Communicating
 - Writing Articles
