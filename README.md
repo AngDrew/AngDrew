@@ -4,16 +4,13 @@
 I'm a mobile developer from Indonesia 🇮🇩
 
 ### My main skills: 
-- Mobile Development (currently I'm pretty confident with my Flutter skill)
-- Some of UI / UX Principle
+- Flutter (currently I'm very confident with my Flutter skill)
+- UI / UX Principle and best practice
 - Problem Solver
 - Shortcut Finder
-- Investing in Stock
 - Teaching
-- Communicating
-- Writing Articles
+- Communication
 - Time Management
-- Sometimes, i play video game too
 
 ### Contact: 
 - <a href="mailto:andrewanggada@gmail.com">✉️ andrewanggada@gmail.com</a>
